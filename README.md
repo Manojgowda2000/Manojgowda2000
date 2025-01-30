@@ -41,7 +41,7 @@ Analytical professional with expertise in data science, machine learning, and da
 
 ## 📫 Connect With Me
 - Email: manojrgowdamanoj@gmail.com
-- LinkedIn: [Manoj R](Your-LinkedIn-URL)
+- LinkedIn: [Manoj R](https://www.linkedin.com/in/manojr06/)
 - GitHub: You're already here! 😊
 
 ## 🏆 Certifications
