@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manoj R
 
-Data Scientist | ML Engineer | Data Analyst based in Bengaluru, Karnataka 🇮🇳
+AIML Engineer based in Bengaluru, Karnataka 🇮🇳
 
 # 💫 About Me:
 Analytical professional with expertise in data science, machine learning, and data analytics. I specialize in data preprocessing, model building, statistical analysis, and data visualization. Passionate about deriving actionable insights and supporting strategic decision-making with advanced data techniques.
